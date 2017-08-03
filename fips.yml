@@ -1,0 +1,9 @@
+#
+# fips-tinycthread
+#
+---
+exports:
+    header-dirs:
+        - tinycthread/source
+    modules:
+        tinycthread: .
